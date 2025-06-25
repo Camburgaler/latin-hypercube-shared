@@ -11,7 +11,7 @@
         "url": "git+https://github.com/Camburgaler/latin-hypercube-shared.git"
     },
     "license": "ISC",
-    "author": "",
+    "author": "Cameron Chrobocinski <cameronchrobo@gmail.com>",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "scripts": {
@@ -19,5 +19,6 @@
     },
     "files": [
         "dist"
-    ]
+    ],
+    "access": "public"
 }
