@@ -1,0 +1,23 @@
+{
+    "name": "@camburgaler/latin-hypercube-shared",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://github.com/Camburgaler/latin-hypercube-shared#readme",
+    "bugs": {
+        "url": "https://github.com/Camburgaler/latin-hypercube-shared/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Camburgaler/latin-hypercube-shared.git"
+    },
+    "license": "ISC",
+    "author": "",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "files": [
+        "dist"
+    ]
+}
